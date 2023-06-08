@@ -12,6 +12,11 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
+## Info
+Live site found here: https://webapp15932.gatsbyjs.io (I wasn't sure if I needed to use GitHub Pages, so if I did, apologies).
+
+Sorry that this was late! Should hopefully not happen again.
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
